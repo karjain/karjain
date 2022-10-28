@@ -1,3 +1,16 @@
+<div align="center">
+<img src="https://github.com/karjain/karjain/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
+# Welcome To My GitHub Profile !
+
+<br/>
+<div align="center">
+<img src="https://github.com/karjain/karjain/blob/master/screen.gif" alt="Kartik Jain Typer" />
+</div>
+<br/>
+
+
 <h1 align="center">Hi 👋, I'm Kartik Jain</h1>
 <h3 align="center">Graduate Data Science student</h3>
 
