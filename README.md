@@ -6,7 +6,18 @@
 
 <br/>
 <div align="center">
-<img src="https://github.com/karjain/karjain/blob/master/screen.gif" alt="Kartik Jain Typer" />
+<img src="https://github.com/karjain/karjain/blob/main/screen.gif" alt="Kartik Jain Typer" />
+</div>
+<br/>
+
+<br/>
+
+- 🙌 I'm currently open to: **Software Engineering | Data Engineering | Full-Stack Web Development Roles**
+
+<br/><br/>
+
+<div align="center">
+<img src="https://github.com/karjain/karjain/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
