@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://github.com/karjain/karjain/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/karjain/karjain/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# Welcome To My GitHub Profile !
 
 <br/>
 <div align="center">
@@ -12,7 +11,13 @@
 
 <br/>
 
-- 🙌 I'm currently open to: **Software Engineering | Data Engineering | Full-Stack Web Development Roles**
+- 🙌 I am Graduate Data Science student
+
+- 🙌 I'm currently open to: **Data Scientist | Software Engineering | Data Engineering | Data Analyst roles**
+
+- 🔭 I’m currently working on: **Data Engineering | Data Analytics**
+
+- 🌱 I’m currently learning: ** Cloud**
 
 <br/><br/>
 
@@ -22,10 +27,6 @@
 <br/>
 
 
-<h1 align="center">Hi 👋, I'm Kartik Jain</h1>
-<h3 align="center">Graduate Data Science student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karjain&label=Profile%20views&color=0e75b6&style=flat" alt="karjain" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
