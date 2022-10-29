@@ -35,9 +35,14 @@
   &nbsp; &nbsp; <a href="mailto:karjain@gwu.edu" target="blank"><img align="top" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="40" width="40" /></a> 
 
 <div align="center">
-<img src="https://github.com/karjain/karjain/blob/main/images/corgi.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/karjain/karjain/blob/main/images/corgi.gif" alt="Coder" width="400" height="150" />
 </div>
 <br/>
+
+- 📚 Ask me about what book I am reading
+
+- 🙌 I enjoy badminton, soccer and backpacking
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
