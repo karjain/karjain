@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kjain95" target="blank"><img align="center" src="https://github.com/karjain/karjain/blob/main/images/linked-in-alt.svg" alt="kjain95" height="30" width="40" /></a> <a href="mailto:karjain@gwu.edu" target="blank"><img align="center" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kjain95" target="blank"><img src="https://github.com/karjain/karjain/blob/main/images/linked-in-alt.svg" alt="kjain95" height="40" width="40" /></a> <a href="mailto:karjain@gwu.edu" target="blank"><img align="center" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="40" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,7 +40,3 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karjain&show_icons=true&locale=en&layout=compact" alt="karjain" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karjain&show_icons=true&locale=en" alt="karjain" /></p>
