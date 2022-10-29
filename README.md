@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://github.com/karjain/karjain/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/karjain/karjain/blob/main/images/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 
 <br/>
 <div align="center">
-<img src="https://github.com/karjain/karjain/blob/main/screen.gif" alt="Kartik Jain Typer" />
+<img src="https://github.com/karjain/karjain/blob/main/images/screen.gif" alt="Kartik Jain Typer" />
 </div>
 <br/>
 
