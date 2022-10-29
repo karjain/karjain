@@ -28,20 +28,21 @@
 <br/>
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kjain95" target="blank"><img src="https://github.com/karjain/karjain/blob/main/images/linked-in-alt.svg" align="center" alt="kjain95" height="35" width="40" /></a> 
-  &nbsp; &nbsp; <a href="mailto:karjain@gwu.edu" target="blank"><img align="top" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="40" width="40" /></a> 
-
 <div align="center">
 <img src="https://github.com/karjain/karjain/blob/main/images/corgi.gif" alt="Coder" width="400" height="150" />
 </div>
 <br/>
 
-- 📚 Ask me about what book I am reading
+- 📚 Ask me about what book I am reading.
 
-- 🙌 I enjoy badminton, soccer and backpacking
+- ⛰ I enjoy badminton, soccer and backpacking.
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kjain95" target="blank"><img src="https://github.com/karjain/karjain/blob/main/images/linked-in-alt.svg" align="center" alt="kjain95" height="35" width="40" /></a> 
+  &nbsp; &nbsp; <a href="mailto:karjain@gwu.edu" target="blank"><img align="top" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="40" width="40" /></a> 
 
 
 <h3 align="left">Languages and Tools:</h3>
