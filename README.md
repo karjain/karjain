@@ -35,7 +35,7 @@
   &nbsp; &nbsp; <a href="mailto:karjain@gwu.edu" target="blank"><img align="top" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="40" width="40" /></a> 
 
 <div align="center">
-<img src="https://github.com/karjain/karjain/blob/main/corgi.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/karjain/karjain/blob/main/images/corgi.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
