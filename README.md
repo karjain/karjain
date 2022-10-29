@@ -11,15 +11,16 @@
 
 <br/>
 
-- 🙌 I am Graduate Data Science student
+- 🙌 I am Graduate Data Science student at The George Washington University
+
 
 - 🙌 I'm currently open to: **Data Scientist | Software Engineering | Data Engineering | Data Analyst roles**
 
-- 🔭 I’m currently working on: **Data Engineering | Data Analytics**
+- 🔭 I’m currently working on: **Data Engineering | Data Analytics | AWS | GCP**
 
-- 🌱 I’m currently learning: ** Cloud**
+- 🌱 I’m currently learning: **CLOUD**
 
-<br/><br/>
+<br/>
 
 <div align="center">
 <img src="https://github.com/karjain/karjain/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
@@ -31,6 +32,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kjain95" target="blank"><img align="center" src="https://github.com/karjain/karjain/blob/main/images/linked-in-alt.svg" alt="kjain95" height="30" width="40" /></a>
+
+<a href="mailto:karjain@gwu.edu" target="blank"><img align="center" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
