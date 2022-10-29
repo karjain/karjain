@@ -34,7 +34,10 @@
 <a href="https://linkedin.com/in/kjain95" target="blank"><img src="https://github.com/karjain/karjain/blob/main/images/linked-in-alt.svg" align="center" alt="kjain95" height="35" width="40" /></a> 
   &nbsp; &nbsp; <a href="mailto:karjain@gwu.edu" target="blank"><img align="top" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="40" width="40" /></a> 
 
-
+<div align="center">
+<img src="https://github.com/karjain/karjain/blob/main/corgi.gif" alt="Coder" width="400" height="250" />
+</div>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
