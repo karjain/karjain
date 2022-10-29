@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kjain95" target="blank"><img src="https://github.com/karjain/karjain/blob/main/images/linked-in-alt.svg" align="center" alt="kjain95" height="40" width="40" /></a> <a href="mailto:karjain@gwu.edu" target="blank"><img align="bottom" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/kjain95" target="blank"><img src="https://github.com/karjain/karjain/blob/main/images/linked-in-alt.svg" align="center" alt="kjain95" height="40" width="40" /></a> <a href="mailto:karjain@gwu.edu" target="blank"><img align="top" src="https://github.com/karjain/karjain/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="40" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
