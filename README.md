@@ -13,10 +13,13 @@
 
 - 🙌 I am Graduate Data Science student at The George Washington University
 
+- 👨🏽‍💻 I am crurrently working with the World Bank on utilizing machine learning to identify infrastructre quality in Yemen
 
-- 🙌 I'm currently open to: **Data Scientist | Software Engineering | Data Engineering | Data Analyst roles**
+- 👨🏽‍💻 And I am working on a reseach project funded by the Dept of Defence to predict the probability of coup d'etat in Africa
 
-- 🔭 I’m currently working on: **Data Engineering | Data Analytics | AWS | GCP**
+- 🙌 Open to: **Data Scientist | Software Engineering | Data Engineering | Data Analyst roles**
+
+- 🔭 Working on: **Data Engineering | Data Analytics | AWS | GCP**
 
 - 🌱 I’m currently learning: **CLOUD**
 
@@ -27,14 +30,12 @@
 </div>
 <br/>
 
-
-
 <!-- <div align="center">
 <img src="https://github.com/karjain/karjain/blob/main/images/corgi.gif" alt="Coder" width="400" height="150" />
 </div>
 <br/> -->
 
-- 📚 Ask me about what book I am reading.
+- 📚 Ask me about what book I am reading. 
 
 - ⛰ I enjoy badminton, soccer and backpacking.
 
