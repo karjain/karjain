@@ -24,6 +24,9 @@
 - 🌱 I’m currently learning: **CLOUD**
 
 <br/>
+- 📚 Ask me about what book I am reading. 
+
+- ⛰ I enjoy badminton, soccer and backpacking.
 
 <div align="center">
 <img src="https://github.com/karjain/karjain/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
@@ -35,9 +38,6 @@
 </div>
 <br/> -->
 
-- 📚 Ask me about what book I am reading. 
-
-- ⛰ I enjoy badminton, soccer and backpacking.
 
 
 
