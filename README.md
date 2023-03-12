@@ -29,10 +29,10 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/karjain/karjain/blob/main/images/corgi.gif" alt="Coder" width="400" height="150" />
 </div>
-<br/>
+<br/> -->
 
 - 📚 Ask me about what book I am reading.
 
