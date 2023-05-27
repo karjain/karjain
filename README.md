@@ -11,11 +11,11 @@
 
 <br/>
 
-- 🙌 I am Graduate Data Science student at The George Washington University
+- 🙌 I am a Graduate Data Science student at The George Washington University
 
-- 👨🏽‍💻 I am crurrently working with the World Bank on utilizing machine learning to identify infrastructre quality in Yemen
+- 👨🏽‍💻 I am currently working with the World Bank on utilizing machine learning to identify infrastructure quality in Yemen
 
-- 👨🏽‍💻 And I am working on a reseach project funded by the Dept of Defence to predict the probability of coup d'etat in Africa
+- 👨🏽‍💻 And I am working on a research project funded by the Dept of Defence to predict the probability of a coup d'etat in Africa
 
 - 🙌 Open to: **Data Scientist | Software Engineering | Data Engineering | Data Analyst roles**
 
@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning: **CLOUD**
 
-- ⛰ I enjoy badminton, soccer and backpacking.
+- ⛰ I enjoy badminton, soccer, and backpacking.
 
 - 📚 Ask me about what book I am reading. 
 
